@@ -1,9 +1,10 @@
 Type=Exe
 Form=Principal.frm
 Reference=*\G{00020430-0000-0000-C000-000000000046}#2.0#0#C:\WINDOWS\SysWow64\stdole2.tlb#OLE Automation
+Form=FormMensagem.frm
 Startup="Principal"
 Command32=""
-Name="Project1"
+Name="Mensagem"
 HelpContextID="0"
 CompatibleMode="0"
 MajorVer=1
@@ -26,3 +27,4 @@ Unattended=0
 Retained=0
 ThreadPerObject=0
 MaxNumberOfThreads=1
+DebugStartupOption=0
