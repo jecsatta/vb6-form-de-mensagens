@@ -1,4 +1,4 @@
-# Formulário para formulário dinâmico de mensagens
+# Formulário dinâmico de mensagens VB6
 Formulário genérico para mensagens em vb6
 
 ```` 
