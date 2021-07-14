@@ -1,0 +1,22 @@
+*.vbw
+*.csi
+*.exp
+*.lib
+*.lvw
+*.dca
+*.scc
+*.tmp
+*.exe
+*.obj
+Erros Sistema/
+ExportaXMLTempApagar/
+EnvioXML/
+ImportandoXML/
+PDF/DANFE/
+#<name of built binary, exe, dll or ocx>
+PDF/
+XmlExportTemp/
+AtualizadorMSP.exe_old
+*.zip
+logatualizador.txt
+posto.exe_old
