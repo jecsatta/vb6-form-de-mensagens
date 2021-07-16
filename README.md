@@ -1,5 +1,6 @@
 # Formulário dinâmico de mensagens VB6
 Formulário genérico para mensagens em vb6
+
 ![image](https://user-images.githubusercontent.com/60496134/125962549-2decf1c0-fc6f-4ed8-96e5-acbdcc316a30.png)
 ```` 
     With New FormMensagem
